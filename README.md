@@ -4,11 +4,17 @@ Kotlin grammar
 
 [Kotlin](https://kotlinlang.org/docs/command-line.html)
 
-```kt
+```kotlin
 kotlinc hello.kt -include-runtime -d hello.jar
 java -jar hello.jar
 ```
 
-```kt
+```kotlin
 kotlinc -d main.jar main.kt && kotlin -classpath main.jar MainKt
+```
+
+```kotlin
+kotlinc
+# kotlin interactive mode
+:quit
 ```
