@@ -1,4 +1,4 @@
-package com.example.kotlinbasic
+package com.example.kotlin
 
 import java.util.*
 import kotlin.math.max

@@ -1,4 +1,4 @@
-package com.example.kotlinbasic
+package com.example.kotlin
 
 fun main(args : Array<String>){
     //singleton
