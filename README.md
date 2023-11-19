@@ -1,5 +1,8 @@
 # Kotlin
-Kotlin grammar
+[Kotlin Playground](https://play.kotlinlang.org)
+
+[Learn Kotlin Programming – Full Course for Beginners](https://www.youtube.com/watch?v=EExSSotojVI)
+
 ## How to run in command line
 
 [Kotlin](https://kotlinlang.org/docs/command-line.html)
@@ -19,4 +22,3 @@ kotlinc
 :quit
 ```
 
-[Learn Kotlin Programming – Full Course for Beginners](https://www.youtube.com/watch?v=EExSSotojVI)
